@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardbdistrict17",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.081395019619919, 40.720953624397019 ], [ -74.085486112001988, 40.722621048992359 ], [ -74.086758896298647, 40.720898502209536 ], [ -74.082976908674311, 40.719120787189397 ], [ -74.081395019619919, 40.720953624397019 ] ] ] } }
+]
+}

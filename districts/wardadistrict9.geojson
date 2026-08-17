@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardadistrict9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.100784588943668, 40.697876686704618 ], [ -74.099100355975878, 40.695807578461114 ], [ -74.096324490528986, 40.698420555919633 ], [ -74.097151012263168, 40.699437342976239 ], [ -74.100784588943668, 40.697876686704618 ] ] ] } }
+]
+}

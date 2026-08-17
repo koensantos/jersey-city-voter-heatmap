@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardedistrict4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.039088138349101, 40.7171003921665 ], [ -74.042275165744812, 40.717473079763408 ], [ -74.042439070010872, 40.716658685646223 ], [ -74.039252042615189, 40.716272190036882 ], [ -74.039088138349101, 40.7171003921665 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardbdistrict2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.093461759459785, 40.706291869690972 ], [ -74.090195234225021, 40.709054410255064 ], [ -74.093239546858769, 40.710957801398663 ], [ -74.096306080752626, 40.708212184421498 ], [ -74.093461759459785, 40.706291869690972 ] ] ] } }
+]
+}

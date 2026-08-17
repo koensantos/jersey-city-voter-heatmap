@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardfdistrict31",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.039363013914681, 40.715425243733094 ], [ -74.039697607716775, 40.713266098374568 ], [ -74.036457129115448, 40.713051643770378 ], [ -74.036046975258856, 40.715035884452497 ], [ -74.039363013914681, 40.715425243733094 ] ] ] } }
+]
+}

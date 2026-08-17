@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardadistrict21",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.089915048401551, 40.698940774492165 ], [ -74.087435483198988, 40.701104367242763 ], [ -74.084971512746108, 40.699449165990259 ], [ -74.088043678437344, 40.697332813049393 ], [ -74.089915048401551, 40.698940774492165 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardadistrict11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.100254367453772, 40.694648849774694 ], [ -74.097135417513456, 40.691125244855535 ], [ -74.095825458538513, 40.693383684215483 ], [ -74.098429781738687, 40.69639875880241 ], [ -74.100254367453772, 40.694648849774694 ] ] ] } }
+]
+}

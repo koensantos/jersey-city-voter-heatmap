@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardadistrict20",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.088823415922434, 40.691988427051619 ], [ -74.084067017263408, 40.695169097800253 ], [ -74.087482267448067, 40.697782100300927 ], [ -74.091396549623212, 40.695228216636998 ], [ -74.088823415922434, 40.691988427051619 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wardddistrict24",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.040231464819342, 40.746816134864034 ], [ -74.044577875670356, 40.748389654298037 ], [ -74.045800559110361, 40.746484818283513 ], [ -74.041853011562822, 40.745014106591661 ], [ -74.040231464819342, 40.746816134864034 ] ] ] } }
+]
+}
