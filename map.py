@@ -136,13 +136,13 @@ voter_data = pd.concat(
 
 # Candidate colors
 colors = {
-    "JOYCE E. WATTERMAN": "#377eb8",
+    "JOYCE E. WATTERMAN": "#ff00e1",
     "MUSSAB ALI": "#ff7f00",
-    "KALKI JAYNE-ROSE": "#4daf4a",
+    "KALKI JAYNE-ROSE": "#c8ff00",
     "JIM McGREEVEY": "#e41a1c",
-    "BILL O'DEA": "#984ea3",
-    "JAMES SOLOMON": "#a65628",
-    "CHRISTINA L. FREEMAN": "#f781bf",
+    "BILL O'DEA": "#1cc125",
+    "JAMES SOLOMON": "#377eb8",
+    "CHRISTINA L. FREEMAN": "#3d0060",
     "Write-In Vote": "#999999"
 }
 
@@ -348,6 +348,6 @@ folium.LayerControl().add_to(m)
 
 
 # Save map
-m.save("jersey_city_wards.html")
+m.save("index.html")
 
 print("Map created successfully!")
